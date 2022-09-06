@@ -1,0 +1,142 @@
+header {
+    height: 115px;
+    width: 100vw;
+    background: #1D1B1B;
+}
+
+nav {
+    height: 38px;
+    margin: 44px 126px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.work {
+    width: 477.04px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ark {
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.03em;
+color: #FBFBFB;
+width: 66px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.asset {
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.03em;
+color: #FBFBFB;
+width: 108.04px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.account {
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.03em;
+color: #FBFBFB;
+width: 123px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.navCate {
+    width: 500px;
+    height: 38px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.notify {
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    background: #E0E0E0;
+    position: relative;
+    padding: 10px 12px 10px 12px;
+}
+
+.bell {
+    height: 14.8px;
+    width: 12px;
+}
+
+.elips {
+    position: absolute;
+    top: -10%;
+    left: 80%;
+    height: 8.5px;
+    width: 8.5px;
+}
+
+.chats {
+    height: 33.333335876464844px;
+    width: 33.333335876464844px;
+    position: relative;
+}
+
+.elips2 {
+    position: absolute;
+    top: -26%;
+    left: 80%;
+    height: 8.5px;
+    width: 8.5px;
+}
+
+.Boxs {
+    width: 50.04px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user {
+    width: 58.04px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.InputSearch {
+    width: 189px;
+    height: 38px;
+    background: #FBFBFB;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.InputSearch input {
+    margin: 3px 32px;
+    width: 75px;
+    height: 30px;
+    border: none;
+}
+
+.InputSearch ::placeholder {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+
+color: rgba(0, 0, 0, 0.2);
+}
