@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link, NavLink } from 'react-router-dom';
 import styles from './style.module.css';
-import Edit from '../../assets/edit-icon.svg';
+import Edit from '../../assets/Group 59.svg';
 import globe from '../../assets/u_globe.svg';
 import Time from '../../assets/access_time.svg';
 import plus from '../../assets/fi_plus-circle.svg';
